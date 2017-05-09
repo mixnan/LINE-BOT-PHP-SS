@@ -54,4 +54,4 @@ EOM;
   curl_setopt($curl, CURLOPT_PROXY, getenv('FIXIE_URL'));
   $output = curl_exec($curl);
  
-?>
+
