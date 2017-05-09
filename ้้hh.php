@@ -1,4 +1,3 @@
 <?php
 
-echo "ddd"
-?>
+echo "ddd";
